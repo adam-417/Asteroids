@@ -25,4 +25,6 @@ Visuals & Effects
 -Basic particle effects for explosions (shooting asteroids and the dying).    
 -The background is static space, emphasizing the arcade feel.   
 
-https://github.com/user-attachments/assets/4d2043ab-1380-41db-a64c-718293ee20df
+https://github.com/user-attachments/assets/4d2043ab-1380-41db-a64c-718293ee20df 
+
+Source: https://www.youtube.com/watch?v=cIeWhztKyAg
